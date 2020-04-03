@@ -1,3 +1,3 @@
-#Hose Inventory
+Hose Inventory
 
-#Inventory system used by fire departments to manage and test hoses at their stations.
+Inventory system used by fire departments to manage and test hoses at their stations.
