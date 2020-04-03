@@ -52,7 +52,7 @@ hoseInventory.use((req, res, next) => {
 });
 
 app.use(session({
-  secret:"capslockisfire",
+  secret:"some secret",
   saveUninitialized: false,
   resave: false,
   cookie: {
