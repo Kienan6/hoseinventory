@@ -1,0 +1,10 @@
+html {
+  overflow-y: scroll;
+  background-color: #9dc2d1;
+}
+.information-pane {
+  background: rgba(0,0,0,0.25);
+  box-shadow: 0 3px 4px 0px rgba(0,0,0,0.6);
+  border-radius: 5px;
+}
+
